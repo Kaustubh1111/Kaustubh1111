@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" width="600" height="300"/>
+  <img src="https://github.com/rahul-jha98/rahul-jha98/blob/main/techstack.gif" width="600" height="300"/>
 </div>
 
 ---
