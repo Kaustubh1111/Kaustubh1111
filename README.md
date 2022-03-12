@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope:I am a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student from Nirma Universi, Ahmedabad from India.
+- :telescope:I am a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student from Nirma University, Ahmedabad from India.
 
 - :seedling: Exploring Technical contents...
 
