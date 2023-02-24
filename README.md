@@ -26,14 +26,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - :telescope:I am a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student from Nirma University, Ahmedabad from India.
 
 - :seedling: Exploring Technical contents...
 
 - :zap: I solve problems on various sites of Competitetive Programming and read tech articles.
 
--  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-suthar1111/)
+-  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-suthar1111/)  and Portfolio website (https://kaustubh1111.github.io/Portfolio_Website/)
 
 
 ---
@@ -58,7 +58,9 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1111&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1111&show_icons=true&locale=en&layout=compact" alt="Kaustubh1111" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh1111&show_icons=true&locale=en" alt="Kaustubh1111" /></p>
 
 <!--
 **Kaustubh1111/Kaustubh1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
