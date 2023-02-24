@@ -14,7 +14,7 @@
 </div>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I am Kaustubh
 </h1>
 </div>
 
@@ -33,7 +33,8 @@
 
 - :zap: I solve problems on various sites of Competitetive Programming and read tech articles.
 
--  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-suthar1111/)  and Portfolio website (https://kaustubh1111.github.io/Portfolio_Website/)
+-  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-suthar1111/) and <a href="https://kaustubh1111.github.io/Portfolio_Website/" target="blank">Portfolio Website</a>
+ 
 
 
 ---
