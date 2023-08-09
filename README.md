@@ -54,15 +54,14 @@
   
 </div>
 
----
-
+<!--
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1111&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1111&show_icons=true&locale=en&layout=compact" alt="Kaustubh1111" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh1111&show_icons=true&locale=en" alt="Kaustubh1111" /></p>
-
+-->
 <!--
 **Kaustubh1111/Kaustubh1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
